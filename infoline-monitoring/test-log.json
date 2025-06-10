@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-06-09T21:45:00",
+  "level": "error",
+  "message": "Database connection failed",
+  "service": "api-backend",
+  "host": "app-node-1"
+}
+
